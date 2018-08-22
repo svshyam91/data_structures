@@ -1,4 +1,16 @@
-// Circular Linked List Implementation
+/* Circular Linked List Implementation
+	Functions: 
+		1. Create
+		2. Insert
+		3. Delete 
+		4. Display
+		
+	Note: Insert and Delete functions considers all the cases like 
+	inserting/deletion at the begining, in between and at the end.
+	The choice will depend on the position user enters. 
+	
+	Author: Shyam Kumar
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
